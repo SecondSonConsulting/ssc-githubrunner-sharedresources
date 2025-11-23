@@ -1,4 +1,4 @@
-# ssc-githubrunner-sharedresources
+# ssc-github-sharedresources
 
 A collection of scripts and code snippets which can be sourced by numerous other repos and runners, to keep from code drift.
 
